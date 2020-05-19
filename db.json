@@ -1,0 +1,19 @@
+{
+  "listBook": [
+    {
+      "title": "Harry potter",
+      "des": "season 1",
+      "id": "xIYDP-hKM"
+    }
+  ],
+  "userList": [
+    {
+      "user": "huy",
+      "id": "0KR6iOEnU"
+    },
+    {
+      "user": "thang",
+      "id": "pvoYhZDy4"
+    }
+  ]
+}
